@@ -1,0 +1,55 @@
+{
+  "file_text_id": "File",
+  "figure_text_id": "Figure",
+  "view_text_id": "View",
+  "tab_text_id": "Tab",
+  "pages_text_id": "Pages",
+  "language_text_id": "Language",
+  "figure_plugins_text_id": "Figure Plugins",
+  "format_plugins_text_id": "Format Plugins",
+  "cloud_text_id": "Cloud",
+  "skins_text_id": "Skins",
+  "help_text_id": "Help",
+
+  "save_text_id": "Save",
+  "open_text_id": "Open",
+  "exit_text_id": "Exit",
+
+  "new_tab_text_id": "New Tab",
+  "rename_tab_text_id": "Rename Tab",
+  "close_tab_text_id": "Close Tab",
+
+  "russian_text_id": "Russian",
+  "english_text_id": "English",
+  "ukrainian_text_id": "Ukrainian",
+
+  "load_from_cloud_text_id": "Load",
+  "tool_bar_text_id": "ToolBar",
+
+  "skin1_text_id": "Skin1",
+  "skin2_text_id": "Skin2",
+  "skin3_text_id": "Skin3",
+
+  "faq_text_id": "FAQ",
+  "about_text_id": "About",
+
+  "properties_text_id": "Properties",
+  "types_text_id": "Type:",
+
+  "figure_type_text_id": "Figure Type",
+  "simple_figure_text_id": "Simple Figure",
+
+  "line_text_id": "Line",
+  "rectangle_text_id": "Rectangle",
+  "rounded_rectangle_text_id": "RRectangle",
+  "ellipse_text_id": "Ellipse",
+
+  "width_text_id": "Width",
+  "color_text_id": "Color",
+
+  "load_text_id": "Load",
+  "new_text_id": "New",
+  "del_text_id": "Del",
+  "rename_text_id": "ReN"
+
+}
